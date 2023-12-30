@@ -1,0 +1,14 @@
+D:\Parallel_Project\Compiler design Project\Compiler design Project\bin\Debug\net7.0\Compiler design Project.exe
+D:\Parallel_Project\Compiler design Project\Compiler design Project\bin\Debug\net7.0\Compiler design Project.deps.json
+D:\Parallel_Project\Compiler design Project\Compiler design Project\bin\Debug\net7.0\Compiler design Project.runtimeconfig.json
+D:\Parallel_Project\Compiler design Project\Compiler design Project\bin\Debug\net7.0\Compiler design Project.dll
+D:\Parallel_Project\Compiler design Project\Compiler design Project\bin\Debug\net7.0\Compiler design Project.pdb
+D:\Parallel_Project\Compiler design Project\Compiler design Project\obj\Debug\net7.0\Compiler design Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parallel_Project\Compiler design Project\Compiler design Project\obj\Debug\net7.0\Compiler design Project.AssemblyInfoInputs.cache
+D:\Parallel_Project\Compiler design Project\Compiler design Project\obj\Debug\net7.0\Compiler design Project.AssemblyInfo.cs
+D:\Parallel_Project\Compiler design Project\Compiler design Project\obj\Debug\net7.0\Compiler design Project.csproj.CoreCompileInputs.cache
+D:\Parallel_Project\Compiler design Project\Compiler design Project\obj\Debug\net7.0\Compiler design Project.dll
+D:\Parallel_Project\Compiler design Project\Compiler design Project\obj\Debug\net7.0\refint\Compiler design Project.dll
+D:\Parallel_Project\Compiler design Project\Compiler design Project\obj\Debug\net7.0\Compiler design Project.pdb
+D:\Parallel_Project\Compiler design Project\Compiler design Project\obj\Debug\net7.0\Compiler design Project.genruntimeconfig.cache
+D:\Parallel_Project\Compiler design Project\Compiler design Project\obj\Debug\net7.0\ref\Compiler design Project.dll
