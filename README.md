@@ -1,4 +1,1 @@
-عبدالرحمن ابراهيم فهيم حلوه-->200376
-محمد عصام عبدالرازق عراقي-->190593
-محمد عاشور عبدالعظيم عاشور-->190586
-شريف جمال عطيه خليل-->200349
+A demo wiht C# for one phase of the phases designing a compiler whcich is Lexical analyser
